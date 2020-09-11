@@ -1,0 +1,22 @@
+.my{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.my{
+    background-color: rebeccapurple;
+    /* background: url(require('../assets/images/bg.png') #eee no-repeat center; */
+    background: url(../static/bg.png) #eee no-repeat center;
+}
+
+
+.my2{
+    background-color: red;
+}
+
+
+
+
+
+
